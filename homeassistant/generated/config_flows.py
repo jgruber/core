@@ -78,6 +78,7 @@ FLOWS = [
     "eafm",
     "ecobee",
     "econet",
+    "ecoplug",
     "efergy",
     "elgato",
     "elkm1",

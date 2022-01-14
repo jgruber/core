@@ -1,0 +1,17 @@
+{
+  "domain": "ecoplug",
+  "name": "EcoPlug",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/ecoplug",
+  "requirements": [
+    "pyecoplug==0.0.5"
+  ],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@jgruber"
+  ],
+  "iot_class": "local_polling"
+}
